@@ -1,0 +1,1 @@
+Se trata de verificar se existe um nome na lista (vetor). Ou seja, fazer uma pesquisa de um elemento no vetor, se encontrar, retorne verdadeiro, caso contrário, retorne falso.
